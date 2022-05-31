@@ -7,8 +7,8 @@ In order to use it in your project, paste this in your pubspec.yaml in dependenc
 ```
   background_locator:
     git:
-      url: https://github.com/Yukams/background_locator_fixed
-      ref: master
+      url: https://github.com/sentanilesh/background_locator_flutter.git
+      ref: main
 ```
 
 
